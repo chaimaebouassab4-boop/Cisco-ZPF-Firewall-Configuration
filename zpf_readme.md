@@ -47,11 +47,6 @@ Implémentation complète d'un pare-feu ZPF (Zone-Based Policy Firewall) sur un 
 
 ---
 
-## 📄 Documentation
-
-📥 **[Télécharger le rapport complet (PDF)](docs/ZPF-Config.pdf)**
-
----
 
 ## 🚀 Étapes de configuration
 
@@ -228,9 +223,6 @@ Password: Adminpa55
 Master Sécurité IT & Big Data  
 Université Abdelmalek Essaadi - FST Tanger
 
-📧 [Email](mailto:ton-email)  
-💼 [LinkedIn](ton-profil-linkedin)  
-🌐 [Portfolio](ton-site-web)
 
 ---
 
@@ -242,11 +234,3 @@ Université Abdelmalek Essaadi - FST Tanger
 
 ---
 
-## 📝 License
-
-Projet académique - 2024/2025  
-Documentation disponible sous [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
----
-
-⭐ **Si ce projet vous est utile, n'hésitez pas à le star !**
